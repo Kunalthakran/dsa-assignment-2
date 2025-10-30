@@ -47,7 +47,7 @@ Ensure Python 3 is installed on your system.
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/<your-username>/dsa-assignment-2.git
+git clone https://github.com/Kunalthakran/dsa-assignment-2.git
 cd dsa-assignment-2
 
 # Step 2: Run the program
