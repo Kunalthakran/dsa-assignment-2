@@ -1,4 +1,3 @@
-
 class Book:
     def __init__(self, book_id: int, title: str, author: str, status="Available"):
         self.book_id = book_id
