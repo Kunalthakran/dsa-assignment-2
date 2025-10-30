@@ -1,9 +1,3 @@
-# 055Assignment2.py
-# DSA Assignment 2 - Library Book Management System
-# Name: Kunal Thakran
-# Roll No: 2401420055
-# Course: B-Tech CSE Data
-# Submission File: 055Assignment-2.pdf
 
 class Book:
     def __init__(self, book_id: int, title: str, author: str, status="Available"):
